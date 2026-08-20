@@ -1,0 +1,115 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.btn-background {
+  background-color: blueviolet;
+  font-size: 15px;
+}
+
+.header-background {
+  background-color: aliceblue;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.telephone,
+.location,
+.time {
+  width: 40px;
+  height: 40px;
+  border: solid black 1px;
+  border-radius: 2px;
+  transform: rotate(-45deg);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-background {
+  background-color: rgb(59, 44, 74);
+}
+
+.homenav,
+.btn-background {
+  background-color: rgb(200, 0, 255) !important ;
+}
+
+#navbarlist {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.navpadding {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.violet-background {
+  background-color: rgb(36, 24, 64);
+}
+
+#content1 {
+  top: 300px;
+  left: 100px;
+}
+
+#font-size {
+  font-size: 65px;
+}
+
+#col2 {
+  top: 0;
+  left: 0;
+}
+
+.line {
+  width: 65px;
+  border: 0;
+  border-top: 4px solid rgb(0, 41, 246);
+  margin: 0 auto;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+#icon-circle-border {
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: blueviolet;
+  color: white;
+}
+
+#button-bg{
+  background-color: rgb(97, 46, 210);
+}
+
+
+.caveat{
+  font-family: "Caveat",cursive;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+  font-size: 40px;
+}
+
+.footer-icon{
+  font-size: 20px; 
+  width: 35px; 
+  height: 35px; 
+  background-color: rgb(128, 117, 117)
+}
+
+.container-fluid {
+  padding: 0 !important;
+}
